@@ -98,5 +98,4 @@
     <broadcastLives>true</broadcastLives>
     <title>Blitz</title>
 </blitz>
-<include src="blitz-global.xml"/>
 </map>
